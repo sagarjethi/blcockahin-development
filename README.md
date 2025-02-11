@@ -3,6 +3,7 @@
 ## Phase 1: Blockchain Fundamentals
 ### Core Concepts
 - [ ] Understand what blockchain is and its history
+The project is a demonstration system of blockchain,reference resources https://andersbrownworth.com/blockchain/
 - [ ] Learn about distributed ledger technology
 - [ ] Study basic cryptography concepts
 - [ ] Understand hash functions
